@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38598620993",
+    "project_id": "mu-com",
+    "storage_bucket": "mu-com.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38598620993:android:bf7ccd49ba2a85b54893c0",
+        "android_client_info": {
+          "package_name": "com.example.community"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jiekz5ufMYlea_dXXR4eSVMgRtf4dwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38598620993:android:49d609cff2dd7ca34893c0",
+        "android_client_info": {
+          "package_name": "com.example.mucommunity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jiekz5ufMYlea_dXXR4eSVMgRtf4dwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
