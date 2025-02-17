@@ -1,4 +1,5 @@
 ## Description
+MU GUDA is a mobile application designed for buying and selling agricultural products with seamless payment integration. The Mekelle Universty and Community can connect, browse available products, and complete purchases using various payment methods like Telebirr, Chappa, and Santim Pay.
 
 
 ## Constructive Criticism I Was Given
