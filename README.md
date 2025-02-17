@@ -1,5 +1,5 @@
 ## Description
-MU GUDA is a mobile application designed for buying and selling agricultural products with seamless payment integration. The Mekelle Universty and Community can connect, browse available products, and complete purchases using various payment methods like Telebirr, Chappa, and Santim Pay.
+MU GUDA is a mobile application designed for buying and selling agricultural products with seamless payment integration. The Mekelle Universty and Community can connect, browse available products, and complete purchases using various payment methods like Telebirr, Chappa, and Santim Pay(no API integrated).
 
 
 ## Constructive Criticism I Was Given
@@ -28,3 +28,6 @@ MU GUDA is a mobile application designed for buying and selling agricultural pro
 3. Sync Gradle files.
 4. Run the app on an emulator or Android device.
 5. Create an account or log in using email and password.
+## Developed By
+-Name: Nahom Tadesse 
+Email: nahomtadesse93@gmail.com
