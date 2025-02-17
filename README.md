@@ -30,4 +30,4 @@ MU GUDA is a mobile application designed for buying and selling agricultural pro
 5. Create an account or log in using email and password.
 ## Developed By
 -Name: Nahom Tadesse 
-Email: nahomtadesse93@gmail.com
+-Email: nahomtadesse93@gmail.com
