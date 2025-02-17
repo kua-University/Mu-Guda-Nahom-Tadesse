@@ -6,6 +6,8 @@ MU GUDA is a mobile application designed for buying and selling agricultural pro
 1. Improve UI/UX for better branding and user experience.
 2. Implement Firebase Firestore for secure and efficient data storage.
 3. Integrate multiple payment gateways for user convenience.
+4. add image display
+5. Implement cart 
 
 ## Features
 - Store product information and user purchase history locally.
